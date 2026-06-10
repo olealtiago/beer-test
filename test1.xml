@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <RECIPES>
 <RECIPE>
-<NAME>Cream Aleeeee 20L</NAME>
+<NAME>TESTE EXTERNO GITHUB</NAME>
 <VERSION>1</VERSION>
 <TYPE>All Grain</TYPE>
 <BREWER/>
 <ASST_BREWER/>
-<BATCH_SIZE>30.0000000</BATCH_SIZE>
+<BATCH_SIZE>50.0000000</BATCH_SIZE>
 <BOIL_SIZE>35.6066392</BOIL_SIZE>
 <BOIL_TIME>60.0000000</BOIL_TIME>
 <EFFICIENCY>30.0000000</EFFICIENCY>
 <HOPS>
 <HOP>
-<NAME>Cascade</NAME>
+<NAME>LUPULO TESTE GITHUB</NAME>
 <VERSION>1</VERSION>
 <ORIGIN>U.S.</ORIGIN>
 <ALPHA>3.4000000</ALPHA>
-<AMOUNT>0.0300000</AMOUNT>
+<AMOUNT>10.0000000</AMOUNT>
 <USE>Boil</USE>
 <TIME>60.0000000</TIME>
 <NOTES>A hops with Northern Brewers Heritage Used for: American ales and lagers Aroma: Strong spicy, floral, grapefruit character Substitutes: Centennial Examples: Sierra Nevada Pale Ale, Anchor Liberty Ale</NOTES>
