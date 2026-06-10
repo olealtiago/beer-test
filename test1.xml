@@ -1,0 +1,279 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<RECIPES>
+<RECIPE>
+<NAME>Cream Ale 20L</NAME>
+<VERSION>1</VERSION>
+<TYPE>All Grain</TYPE>
+<BREWER/>
+<ASST_BREWER/>
+<BATCH_SIZE>20.0000000</BATCH_SIZE>
+<BOIL_SIZE>25.6066392</BOIL_SIZE>
+<BOIL_TIME>60.0000000</BOIL_TIME>
+<EFFICIENCY>65.0000000</EFFICIENCY>
+<HOPS>
+<HOP>
+<NAME>Cascade</NAME>
+<VERSION>1</VERSION>
+<ORIGIN>U.S.</ORIGIN>
+<ALPHA>3.4000000</ALPHA>
+<AMOUNT>0.0300000</AMOUNT>
+<USE>Boil</USE>
+<TIME>60.0000000</TIME>
+<NOTES>A hops with Northern Brewers Heritage Used for: American ales and lagers Aroma: Strong spicy, floral, grapefruit character Substitutes: Centennial Examples: Sierra Nevada Pale Ale, Anchor Liberty Ale</NOTES>
+<TYPE>Both</TYPE>
+<FORM>Pellet</FORM>
+<BETA>6.0000000</BETA>
+<HSI>50.0000000</HSI>
+<DISPLAY_AMOUNT>30.00 g</DISPLAY_AMOUNT>
+<INVENTORY>0.00 g</INVENTORY>
+<DISPLAY_TIME>60.0 min</DISPLAY_TIME>
+</HOP>
+<HOP>
+<NAME>Cascade</NAME>
+<VERSION>1</VERSION>
+<ORIGIN>U.S.</ORIGIN>
+<ALPHA>3.4000000</ALPHA>
+<AMOUNT>0.0200000</AMOUNT>
+<USE>Boil</USE>
+<TIME>0.0000000</TIME>
+<NOTES>A hops with Northern Brewers Heritage Used for: American ales and lagers Aroma: Strong spicy, floral, grapefruit character Substitutes: Centennial Examples: Sierra Nevada Pale Ale, Anchor Liberty Ale</NOTES>
+<TYPE>Both</TYPE>
+<FORM>Pellet</FORM>
+<BETA>6.0000000</BETA>
+<HSI>50.0000000</HSI>
+<DISPLAY_AMOUNT>20.00 g</DISPLAY_AMOUNT>
+<INVENTORY>0.00 g</INVENTORY>
+<DISPLAY_TIME>0.0 min</DISPLAY_TIME>
+</HOP>
+</HOPS>
+<FERMENTABLES>
+<FERMENTABLE>
+<NAME>Agrária Pilsen</NAME>
+<VERSION>1</VERSION>
+<TYPE>Grain</TYPE>
+<AMOUNT>4.2000215</AMOUNT>
+<YIELD>82.8000000</YIELD>
+<COLOR>1.7766497</COLOR>
+<ADD_AFTER_BOIL>FALSE</ADD_AFTER_BOIL>
+<ORIGIN>Brasil</ORIGIN>
+<SUPPLIER>Agrária</SUPPLIER>
+<NOTES>Malte Pilsen da Agrária, Malte Base</NOTES>
+<COARSE_FINE_DIFF>2.2000000</COARSE_FINE_DIFF>
+<MOISTURE>5.1000000</MOISTURE>
+<DIASTATIC_POWER>83.0000000</DIASTATIC_POWER>
+<PROTEIN>10.4000000</PROTEIN>
+<MAX_IN_BATCH>100.0000000</MAX_IN_BATCH>
+<RECOMMEND_MASH>TRUE</RECOMMEND_MASH>
+<IBU_GAL_PER_LB>0.0000000</IBU_GAL_PER_LB>
+<DISPLAY_AMOUNT>4.20 kg</DISPLAY_AMOUNT>
+<INVENTORY>0.00 kg</INVENTORY>
+<POTENTIAL>1.0380880</POTENTIAL>
+<DISPLAY_COLOR>1.8 SRM</DISPLAY_COLOR>
+<EXTRACT_SUBSTITUTE/>
+</FERMENTABLE>
+<FERMENTABLE>
+<NAME>Melanoidina (Agrária)</NAME>
+<VERSION>1</VERSION>
+<TYPE>Grain</TYPE>
+<AMOUNT>0.1000005</AMOUNT>
+<YIELD>81.0000000</YIELD>
+<COLOR>43.0000000</COLOR>
+<ADD_AFTER_BOIL>FALSE</ADD_AFTER_BOIL>
+<ORIGIN>Brazil</ORIGIN>
+<SUPPLIER>Agrária</SUPPLIER>
+<NOTES/>
+<COARSE_FINE_DIFF>1.5000000</COARSE_FINE_DIFF>
+<MOISTURE>5.0000000</MOISTURE>
+<DIASTATIC_POWER>48.9000000</DIASTATIC_POWER>
+<PROTEIN>10.7000000</PROTEIN>
+<MAX_IN_BATCH>100.0000000</MAX_IN_BATCH>
+<RECOMMEND_MASH>TRUE</RECOMMEND_MASH>
+<IBU_GAL_PER_LB>0.0000000</IBU_GAL_PER_LB>
+<DISPLAY_AMOUNT>0.10 kg</DISPLAY_AMOUNT>
+<INVENTORY>0.00 kg</INVENTORY>
+<POTENTIAL>1.0372600</POTENTIAL>
+<DISPLAY_COLOR>43.0 SRM</DISPLAY_COLOR>
+<EXTRACT_SUBSTITUTE/>
+</FERMENTABLE>
+</FERMENTABLES>
+<YEASTS>
+<YEAST>
+<NAME>FERMOALE AY4</NAME>
+<VERSION>1</VERSION>
+<TYPE>Ale</TYPE>
+<FORM>Dry</FORM>
+<AMOUNT>0.0000000</AMOUNT>
+<AMOUNT_IS_WEIGHT>FALSE</AMOUNT_IS_WEIGHT>
+<LABORATORY>AEB GROUP</LABORATORY>
+<PRODUCT_ID>ALE - American & English</PRODUCT_ID>
+<MIN_TEMPERATURE>17.7777778</MIN_TEMPERATURE>
+<MAX_TEMPERATURE>20.5555556</MAX_TEMPERATURE>
+<FLOCCULATION>High</FLOCCULATION>
+<ATTENUATION>72.0000000</ATTENUATION>
+<NOTES>Parâmetros de produção Estilos de cerveja: todos os tipos de Ale americanas (desde aquelas de baixo teor alcoólico às fortes). Muito versátil. Cinética de fermentação: veloz. 7 dias a 22°C, 13 dias a 12°C para 12°P. Intervalo de temperatura de fermentação: 12-28°C. Capacidade de floculação e sedimentação: elevada Atenuação aparente: 75-83%* *gravidade normal deve, 12° Platão, malte 100% de cevada DOSES RECOMENDADAS* 50-80 g / hL de mosto frio a 18-25°C</NOTES>
+<BEST_FOR>(APA, IPA, Imperial/Double IPA, Imperial Stout, Imperial Porter, Brown Ale, American Barley Wine) FERMOALE AY4 desenvolve um perfil aromático neutro e limpo, com níveis de diacetilo muito baixos.</BEST_FOR>
+<MAX_REUSE>5</MAX_REUSE>
+<TIMES_CULTURED>0</TIMES_CULTURED>
+<ADD_TO_SECONDARY>FALSE</ADD_TO_SECONDARY>
+<DISPLAY_AMOUNT>0.00 ml</DISPLAY_AMOUNT>
+<DISP_MIN_TEMP>17.8 C</DISP_MIN_TEMP>
+<DISP_MAX_TEMP>20.6 C</DISP_MAX_TEMP>
+<INVENTORY>0.0 pkg</INVENTORY>
+<CULTURE_DATE>14 Mar 2023</CULTURE_DATE>
+</YEAST>
+</YEASTS>
+<STYLE>
+<NAME>Cream Ale</NAME>
+<VERSION>1</VERSION>
+<CATEGORY>Light Hybrid Beer</CATEGORY>
+<CATEGORY_NUMBER>6</CATEGORY_NUMBER>
+<STYLE_LETTER>A</STYLE_LETTER>
+<STYLE_GUIDE>BJCP 2008</STYLE_GUIDE>
+<TYPE>Mixed</TYPE>
+<OG_MIN>1.0420000</OG_MIN>
+<OG_MAX>1.0550000</OG_MAX>
+<FG_MIN>1.0060000</FG_MIN>
+<FG_MAX>1.0120000</FG_MAX>
+<IBU_MIN>15.0000000</IBU_MIN>
+<IBU_MAX>20.0000000</IBU_MAX>
+<COLOR_MIN>2.5000000</COLOR_MIN>
+<COLOR_MAX>5.0000000</COLOR_MAX>
+<CARB_MIN>2.6000000</CARB_MIN>
+<CARB_MAX>2.7000000</CARB_MAX>
+<ABV_MAX>5.6000000</ABV_MAX>
+<ABV_MIN>4.2000000</ABV_MIN>
+<NOTES>A clean, well-attenuated, flavorful American lawnmower beer. An ale version of the American lager style. Produced by ale brewers to compete with lager brewers in the Northeast and Mid-Atlantic States. Originally known as sparkling or present use ales, lager strains were (and sometimes still are) used by some brewers, but were not historically mixed with ale strains. Many examples are kräusened to achieve carbonation. Cold conditioning isn’t traditional, although modern brewers sometimes use it. Classic American (i.e., pre-prohibition) Cream Ales were slightly stronger, hoppier (including some dry hopping) and more bitter (25-30+ IBUs). These versions should be entered in the specialty/experimental category. Most commercial examples are in the 1.050–1.053 OG range, and bitterness rarely rises above 20 IBUs.</NOTES>
+<PROFILE>Aroma: Faint malt notes. A sweet, corn-like aroma and low levels of DMS are commonly found. Hop aroma low to none. Any variety of hops may be used, but neither hops nor malt dominate. Faint esters may be present in some examples, but are not required. No diacetyl. Appearance: Pale straw to moderate gold color, although usually on the pale side. Low to medium head with medium to high carbonation. Head retention may be no better than fair due to adjunct use. Brilliant, sparkling clarity. Flavor: Low to medium-low hop bitterness. Low to moderate maltiness and sweetness, varying with gravity and attenuation. Usually well attenuated. Neither malt nor hops prevail in the taste. A low to moderate corny flavor from corn adjuncts is commonly found, as is some DMS. Finish can vary from somewhat dry to faintly sweet from the corn, malt, and sugar. Faint fruity esters are optional. No diacetyl. Mouthfeel: Generally light and crisp, although body can reach medium. Smooth mouthfeel with medium to high attenuation; higher attenuation levels can lend a “thirst quenching” finish. High carbonation. Higher gravity examples may exhibit a slight alcohol warmth.</PROFILE>
+<INGREDIENTS>American ingredients most commonly used. A grain bill of six-row malt, or a combination of six-row and North American two-row, is common. Adjuncts can include up to 20% flaked maize in the mash, and up to 20% glucose or other sugars in the boil. Soft water preferred. Any variety of hops can be used for bittering and finishing.</INGREDIENTS>
+<EXAMPLES>Genesee Cream Ale, Little Kings Cream Ale (Hudepohl), Anderson Valley Summer Solstice Cerveza Crema, Sleeman Cream Ale, New Glarus Spotted Cow, Wisconsin Brewing Whitetail Cream Ale</EXAMPLES>
+<DISPLAY_OG_MIN>1.042 SG</DISPLAY_OG_MIN>
+<DISPLAY_OG_MAX>1.055 SG</DISPLAY_OG_MAX>
+<DISPLAY_FG_MIN>1.006 SG</DISPLAY_FG_MIN>
+<DISPLAY_FG_MAX>1.012 SG</DISPLAY_FG_MAX>
+<DISPLAY_COLOR_MIN>2.5 SRM</DISPLAY_COLOR_MIN>
+<DISPLAY_COLOR_MAX>5.0 SRM</DISPLAY_COLOR_MAX>
+<OG_RANGE>1.042-1.055 SG</OG_RANGE>
+<FG_RANGE>1.006-1.012 SG</FG_RANGE>
+<IBU_RANGE>15.0-20.0 IBUs</IBU_RANGE>
+<CARB_RANGE>2.60-2.70 Vols</CARB_RANGE>
+<COLOR_RANGE>2.5-5.0 SRM</COLOR_RANGE>
+<ABV_RANGE>4.20-5.60 %</ABV_RANGE>
+</STYLE>
+<EQUIPMENT>
+<NAME>Panela Piquiri 5min</NAME>
+<VERSION>1</VERSION>
+<BOIL_SIZE>25.6066392</BOIL_SIZE>
+<BATCH_SIZE>20.0000000</BATCH_SIZE>
+<TUN_VOLUME>35.9997925</TUN_VOLUME>
+<TUN_WEIGHT>2.9999981</TUN_WEIGHT>
+<TUN_SPECIFIC_HEAT>0.2200000</TUN_SPECIFIC_HEAT>
+<TOP_UP_WATER>0.0000000</TOP_UP_WATER>
+<TRUB_CHILLER_LOSS>1.9999885</TRUB_CHILLER_LOSS>
+<EVAP_RATE>10.5050276</EVAP_RATE>
+<BOIL_TIME>60.0000000</BOIL_TIME>
+<CALC_BOIL_VOLUME>TRUE</CALC_BOIL_VOLUME>
+<LAUTER_DEADSPACE>1.9999885</LAUTER_DEADSPACE>
+<TOP_UP_KETTLE>0.0000000</TOP_UP_KETTLE>
+<HOP_UTILIZATION>100.0000000</HOP_UTILIZATION>
+<COOLING_LOSS_PCT>4.0000000</COOLING_LOSS_PCT>
+<NOTES/>
+<DISPLAY_BOIL_SIZE>25.61 L</DISPLAY_BOIL_SIZE>
+<DISPLAY_BATCH_SIZE>20.00 L</DISPLAY_BATCH_SIZE>
+<DISPLAY_TUN_VOLUME>36.00 L</DISPLAY_TUN_VOLUME>
+<DISPLAY_TUN_WEIGHT>3.00 kg</DISPLAY_TUN_WEIGHT>
+<DISPLAY_TOP_UP_WATER>0.00 L</DISPLAY_TOP_UP_WATER>
+<DISPLAY_TRUB_CHILLER_LOSS>2.00 L</DISPLAY_TRUB_CHILLER_LOSS>
+<DISPLAY_LAUTER_DEADSPACE>2.00 L</DISPLAY_LAUTER_DEADSPACE>
+<DISPLAY_TOP_UP_KETTLE>0.00 L</DISPLAY_TOP_UP_KETTLE>
+</EQUIPMENT>
+<MASH>
+<NAME>PIQUIRI, 1 Step, Light Body</NAME>
+<VERSION>1</VERSION>
+<GRAIN_TEMP>22.2222222</GRAIN_TEMP>
+<TUN_TEMP>22.2222222</TUN_TEMP>
+<SPARGE_TEMP>75.5555556</SPARGE_TEMP>
+<PH>5.4000000</PH>
+<TUN_WEIGHT>105.8219040</TUN_WEIGHT>
+<TUN_SPECIFIC_HEAT>0.2200000</TUN_SPECIFIC_HEAT>
+<EQUIP_ADJUST>FALSE</EQUIP_ADJUST>
+<NOTES>Temperature mash for use when mashing in a brew pot over a heat source such as the stove. Use heat to maintain desired temperature during the mash.</NOTES>
+<DISPLAY_GRAIN_TEMP>22.2 C</DISPLAY_GRAIN_TEMP>
+<DISPLAY_TUN_TEMP>22.2 C</DISPLAY_TUN_TEMP>
+<DISPLAY_SPARGE_TEMP>75.6 C</DISPLAY_SPARGE_TEMP>
+<DISPLAY_TUN_WEIGHT>3.00 kg</DISPLAY_TUN_WEIGHT>
+<MASH_STEPS>
+<MASH_STEP>
+<NAME>Sacarificação</NAME>
+<VERSION>1</VERSION>
+<TYPE>Infusion</TYPE>
+<INFUSE_AMOUNT>12.9000743</INFUSE_AMOUNT>
+<STEP_TIME>60.0000000</STEP_TIME>
+<STEP_TEMP>64.4444444</STEP_TEMP>
+<RAMP_TIME>15.0000000</RAMP_TIME>
+<END_TEMP>64.4444444</END_TEMP>
+<DESCRIPTION>Adicionar 14.90 L de água a 69.1 C</DESCRIPTION>
+<WATER_GRAIN_RATIO>3.000 l/kg</WATER_GRAIN_RATIO>
+<DECOCTION_AMT>0.00 L</DECOCTION_AMT>
+<INFUSE_TEMP>69.1 C</INFUSE_TEMP>
+<DISPLAY_STEP_TEMP>64.4 C</DISPLAY_STEP_TEMP>
+<DISPLAY_INFUSE_AMT>14.90 L</DISPLAY_INFUSE_AMT>
+</MASH_STEP>
+<MASH_STEP>
+<NAME>Mash Out</NAME>
+<VERSION>1</VERSION>
+<TYPE>Temperature</TYPE>
+<INFUSE_AMOUNT>0.0000000</INFUSE_AMOUNT>
+<STEP_TIME>10.0000000</STEP_TIME>
+<STEP_TEMP>75.5555556</STEP_TEMP>
+<RAMP_TIME>10.0000000</RAMP_TIME>
+<END_TEMP>75.5555556</END_TEMP>
+<DESCRIPTION>Aquecer até 75.6 C no decurso de 10 min</DESCRIPTION>
+<WATER_GRAIN_RATIO>3.465 l/kg</WATER_GRAIN_RATIO>
+<DECOCTION_AMT>0.00 L</DECOCTION_AMT>
+<INFUSE_TEMP>83.3 C</INFUSE_TEMP>
+<DISPLAY_STEP_TEMP>75.6 C</DISPLAY_STEP_TEMP>
+<DISPLAY_INFUSE_AMT>0.00 L</DISPLAY_INFUSE_AMT>
+</MASH_STEP>
+</MASH_STEPS>
+</MASH>
+<NOTES/>
+<TASTE_NOTES>Cream Ale é um estilo americano de cerveja que surgiu no final do século 19, como uma variação das populares Pilsners. São cervejas claras, de boa carbonatação e seu amargor é sutil, mas bastante equilibrada com o sabor maltado. Uma ótima opção para um dia de calor. </TASTE_NOTES>
+<TASTE_RATING>30.0000000</TASTE_RATING>
+<OG>1.0460000</OG>
+<FG>1.0100000</FG>
+<CARBONATION>2.3000000</CARBONATION>
+<FERMENTATION_STAGES>2</FERMENTATION_STAGES>
+<PRIMARY_AGE>7.0000000</PRIMARY_AGE>
+<PRIMARY_TEMP>20.0000000</PRIMARY_TEMP>
+<SECONDARY_AGE>7.0000000</SECONDARY_AGE>
+<SECONDARY_TEMP>0.0000000</SECONDARY_TEMP>
+<TERTIARY_AGE>7.0000000</TERTIARY_AGE>
+<AGE>15.0000000</AGE>
+<AGE_TEMP>20.0000000</AGE_TEMP>
+<CARBONATION_USED>Usar 117.64 g Açúcar de Milho</CARBONATION_USED>
+<FORCED_CARBONATION>TRUE</FORCED_CARBONATION>
+<PRIMING_SUGAR_NAME>Açúcar de Milho</PRIMING_SUGAR_NAME>
+<PRIMING_SUGAR_EQUIV>1.0000000</PRIMING_SUGAR_EQUIV>
+<KEG_PRIMING_FACTOR>0.5000000</KEG_PRIMING_FACTOR>
+<CARBONATION_TEMP>21.1111111</CARBONATION_TEMP>
+<DISPLAY_CARB_TEMP>21.1 C</DISPLAY_CARB_TEMP>
+<DATE>07 Apr 2017</DATE>
+<EST_OG>1.044 SG</EST_OG>
+<EST_FG>1.009 SG</EST_FG>
+<EST_COLOR>4.1622028</EST_COLOR>
+<IBU>15.0 IBUs</IBU>
+<IBU_METHOD>Tinseth</IBU_METHOD>
+<EST_ABV>4.6 %</EST_ABV>
+<ABV>4.7 %</ABV>
+<ACTUAL_EFFICIENCY>63.7 %</ACTUAL_EFFICIENCY>
+<CALORIES>427.1 kcal/l</CALORIES>
+<DISPLAY_BATCH_SIZE>20.00 L</DISPLAY_BATCH_SIZE>
+<DISPLAY_BOIL_SIZE>25.61 L</DISPLAY_BOIL_SIZE>
+<DISPLAY_OG>1.046 SG</DISPLAY_OG>
+<DISPLAY_FG>1.010 SG</DISPLAY_FG>
+<DISPLAY_PRIMARY_TEMP>20.0 C</DISPLAY_PRIMARY_TEMP>
+<DISPLAY_SECONDARY_TEMP>0.0 C</DISPLAY_SECONDARY_TEMP>
+<DISPLAY_TERTIARY_TEMP>18.3 C</DISPLAY_TERTIARY_TEMP>
+<DISPLAY_AGE_TEMP>20.0 C</DISPLAY_AGE_TEMP>
+</RECIPE>
+</RECIPES>
